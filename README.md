@@ -57,7 +57,7 @@ For learning modern full-stack development with Java 🚀
 
 | Layer | Tech |
 |------|------|
-| Backend | Java 17, Spring Boot |
+| Backend | Java 25, Spring Boot |
 | Frontend | Thymeleaf, Bootstrap |
 | Database | MySQL |
 | Build Tool | Maven |
