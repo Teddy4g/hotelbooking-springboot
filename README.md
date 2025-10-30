@@ -18,8 +18,7 @@ For learning modern full-stack development with Java 🚀
 ---
 
 ## 📽️ Demo Preview
-> _GIF preview UI (tambahkan nanti)_
-
+![Uploading image.png…]()
 
 ---
 
