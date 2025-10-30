@@ -18,7 +18,7 @@ For learning modern full-stack development with Java 🚀
 ---
 
 ## 📽️ Demo Preview
-![Uploading image.png…]()
+<img width="1209" height="904" alt="image" src="https://github.com/user-attachments/assets/3e060fd7-5fac-48fa-a62f-87227181fc37" />
 
 ---
 
