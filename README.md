@@ -7,7 +7,7 @@ For learning modern full-stack development with Java 🚀
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Java-17-blue">
+<img src="https://img.shields.io/badge/Java-25-blue">
 <img src="https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen">
 <img src="https://img.shields.io/badge/Thymeleaf-Templating-green">
 <img src="https://img.shields.io/badge/MySQL-Database-orange">
@@ -19,4 +19,55 @@ For learning modern full-stack development with Java 🚀
 
 ## 📽️ Demo Preview
 > _GIF preview UI (tambahkan nanti)_
+
+
+---
+
+## ✨ Features
+
+### 👤 Guest (Customer)
+- Register & Login
+- Book a room
+- Booking confirmation page
+- Invoice page for bookings
+- Guest dashboard (view history)
+
+### 🛠 Admin
+- Admin login
+- Manage bookings (CRUD)
+- Auto-detect booking status by date
+- Dashboard metrics:  
+  ✅ Total Revenue  
+  ✅ Active Bookings  
+  ✅ Finished Bookings  
+
+### ⚙️ System Features
+- MVC + Repository + Service Layer
+- Entity Relationship mapping
+- Date comparison for auto status update
+- Thymeleaf UI templates
+- MySQL persistent data
+
+---
+
+
+---
+
+## 🛠 Technologies Used
+
+| Layer | Tech |
+|------|------|
+| Backend | Java 17, Spring Boot |
+| Frontend | Thymeleaf, Bootstrap |
+| Database | MySQL |
+| Build Tool | Maven |
+
+---
+
+## ⚙️ Installation & Setup
+
+### ✅ 1️⃣ Clone repository
+```bash
+git clone https://github.com/Teddy4g/hotelbooking-springboot.git
+cd hotelbooking-springboot
 
